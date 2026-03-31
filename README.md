@@ -2,7 +2,7 @@
 
 A machine learning project built on 528,000 real FDA drug safety reports (2015–March 2026) to predict whether an adverse drug event will result in a serious outcome — hospitalization, life-threatening reaction, or death — before any clinician has reviewed the report.
 
-**Dataset:** [FDA FAERS 2015–2026 via Kaggle](https://www.kaggle.com/datasets/kanchana1990/fda-adverse-events-2015-2026-faers)  
+**Dataset:** [FDA FAERS 2015–2026 via Kaggle]([https://www.kaggle.com/datasets/kanchana1990/fda-adverse-events-2015-2026-faers](https://www.kaggle.com/datasets/kanchana1990/fda-drug-adverse-event-reports-2015-to-2026-faers))  
 **Tools:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Power BI
 
 ---
